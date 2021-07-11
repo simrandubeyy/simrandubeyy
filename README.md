@@ -9,7 +9,7 @@
 - 🤝 My area of interestes are: Algorithms and Data Structures, Machine Learning, and web development.
 - ⚡ Fun fact: I love art💞️ 
 - 👤 Check my portfolio: https://simrandubeyy.github.io/
-- 💡 Conect with me: www.linkedin.com/in/simren-dubey-361213146
+- 💡 Connect with me: www.linkedin.com/in/simren-dubey-361213146
 
 
 
