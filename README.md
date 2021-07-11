@@ -6,8 +6,9 @@
 - 🌱 Practicing clean code ✨.
 - 👯 I’m looking to collaborate on Problem Solving, Application Development.
 - 🥅 2021 Goals: Contribute to Open Source projects
-- 🤝My area of interestes are: Algorithms and Data Structures, Machine Learning, and web development.
+- 🤝 My area of interestes are: Algorithms and Data Structures, Machine Learning, and web development.
 - ⚡ Fun fact: I love art💞️ 
+- 👤 Check my portfolio https://simrandubeyy.github.io/
 
 
 ![Alt Text](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
